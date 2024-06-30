@@ -1,2 +1,15 @@
+# Golang specific
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# GoLand / IntelliJ IDEA specific
 .idea/
+*.iml
+
+# Environment variables
 .env
